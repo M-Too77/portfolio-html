@@ -8,7 +8,7 @@
 <body>
 
 <header>
-    <h1>Mercy Too Portfolio</h1>
+    <h1>My Portfolio</h1>
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
